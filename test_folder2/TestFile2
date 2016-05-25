@@ -1,1 +1,3 @@
 class SomeClass2
+String x  = "X";
+String y = "Y";
