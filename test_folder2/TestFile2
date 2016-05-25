@@ -1,2 +1,7 @@
 class SomeClass2
+
 var String x = "X";
+
+
+String y = "Y";
+
